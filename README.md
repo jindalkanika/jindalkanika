@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jindalkanika
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Software Development.
 - 🌱 I’m currently a graduate Student at University of Southern California
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/kanikajindal02
